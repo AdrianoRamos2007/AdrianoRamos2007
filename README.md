@@ -1,7 +1,5 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-![Imagem de perfil](link-para-sua-imagem-de-perfil.jpg)
-
 Meu nome é [Adriano], e estou empolgado para compartilhar meu trabalho e projetos aqui no GitHub e estou sempre buscando aprender e colaborar com outros desenvolvedores talentosos.
 
 ## Sobre mim
