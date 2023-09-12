@@ -4,7 +4,7 @@ Meu nome é [Adriano], e estou empolgado para compartilhar meu trabalho e projet
 
 ## Sobre mim
 
-- 📚 Atualmente estou aprendendo [javascript].
+- 📚 Atualmente estou aprendendo a linguagem de programaçao javascript, na plataforma [ALURA](https://www.alura.com.br/)
 
 ## Projetos em Destaque
 
